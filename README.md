@@ -101,7 +101,7 @@ This is critical for `nvcc` to be found by the build process.
     ```
 
 ## 2. Create Project and Local Conda Environment in Powershellx64
-
+** In Windows make sure that you open the powershell from the folder in the start menu of anacona or minianaconda **
 1.  **Create Project Folder:**
     ```powershell
     mkdir D:\AI\LlamaCPPProject
